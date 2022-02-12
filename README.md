@@ -19,3 +19,13 @@ The bot by default has 1 commands.
 ## Hosting
 
 The `server.js` file creates an HTTP server which in turn, generates a URL of the format `https://my-repl-name--my-username.repl.co` that you can ping using services such as uptimerobot. If you have the hacker plan, you can skip this and use the `Always on repl` feature.
+
+
+
+## Contribution
+
+<a href="https://github.com/NanduWasTaken/DiscordBot-v13/graphs/contributors">
+
+  <img src="https://contrib.rocks/image?repo=NanduWasTaken/DiscordBot-v13" />
+
+</a>
