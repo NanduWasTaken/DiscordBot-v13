@@ -1,3 +1,6 @@
+# OutDated
+
+
 ## Setup
 
 First of all, click on the "Lock" icon in the tab on the left. It will show you your repl's secrets. On this tab, add a new secret, set its name to `TOKEN` and its value to your discord bot token from the [discord developer dashboard](https://discord.com/developers/applications).
